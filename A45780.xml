@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Irish occurrences comfortable nevvs from Ireland, of the brave valour and policie of vvarre by the Lord Jones and the Lord Diboney, who fought the greatest battell, with the rebels, and gave them the greatest overthrow, as the like hath not been in Ireland, this hundred yeers and more : in which skirmish there were six and twentie thousand of the rebels slain, and three of their chief commanders taken prisoners : and now there is great hope, if the English and the Scottish forces hasten to help them, that they will be easily subdued and that kingdome setled : brought hither, January 8, 1642.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45780</idno><idno type="EEBO-CITATION">12989375</idno>
+  <idno type="VID">96307</idno>
+  <idno type="EEBO-PROQUEST">2240899939</idno>
+  
+            <idno type="STC">Wing I1041</idno>
+            <idno type="STC">ESTC R7419</idno>
+            <idno type="OCLC">12989375</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45780)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96307)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 257:E181, no 30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Irish occurrences comfortable nevvs from Ireland, of the brave valour and policie of vvarre by the Lord Jones and the Lord Diboney, who fought the greatest battell, with the rebels, and gave them the greatest overthrow, as the like hath not been in Ireland, this hundred yeers and more : in which skirmish there were six and twentie thousand of the rebels slain, and three of their chief commanders taken prisoners : and now there is great hope, if the English and the Scottish forces hasten to help them, that they will be easily subdued and that kingdome setled : brought hither, January 8, 1642.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96307:1"/>
+            <p>
+               <hi>The Irish Occurrences.</hi> COMFORTABLE NEVVS FROM IRELAND, OF THE BRAVE VA<g ref="char:EOLhyphen"/>lour and Policie of VVarre by the Lord <hi>Jones,</hi> and the Lord <hi>Diboney,</hi> who fought the greatest Battell, with the Rebels; and gave them the greatest overthrow, as the like hath not been in <hi>Ireland,</hi> this hundred yeers and more. In which skirmish there were six and twentie thousand of the Rebels slain, and three of their chief Commanders taken Prisoners. And now there is great hope (if the <hi>English</hi> and the <hi>Scottish</hi> Forces hasten to help them) that they will be easily subdued, and that Kingdome setled.</p>
+            <p>Brought hither, <hi>January</hi> 8. 1642.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. H.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:96307:2"/>
+            <pb n="1" facs="tcp:96307:2"/>
+            <head>COMFORTABLE NEVVS from IRELAND, of the great overthrow which the Lord <hi>Jones,</hi> and the Lord <hi>Diboney</hi> gave the Rebels, in a Battell which they fought with them, &amp;c.</head>
+            <div n="1" type="section">
+               <head>1. <hi>Sect.</hi> sheweth how the Rebels great Plot was discovered by one <hi>John Boreman</hi> a Butcher.</head>
+               <p>
+                  <seg rend="decorInit">N</seg>Eare unto the Castle at <hi>Athkyn</hi> doth enhabite a Butcher, an <hi>English</hi> man, a very honest Protestant, but a good Fel<g ref="char:EOLhyphen"/>low, and one of a great acquaintance, by name <hi>John Boreman,</hi> who being in companie with some <hi>Irish</hi> Merchants, that are <hi>Papists,</hi> with whom at the same time was the Sargeant and Cor<g ref="char:EOLhyphen"/>porall of the Castle, who had great whispering amongst them, but would not let the Butcher <hi>John Boreman</hi> know any discourse that they had; so that he did imagine that it was about some Plot or other: so he called for good store of drink, and
+<pb n="2" facs="tcp:96307:3"/> drank very hard, but made a shew of drinking more then he did, in so much that he began at last to de<g ref="char:EOLhyphen"/>meane and carry himself as if he had been drunk, and in his talk pretended to be very sleepie, as ma<g ref="char:EOLhyphen"/>ny drunkards are: so he laid himselfe all along a bench that stood by them, and lay as if he had been asleep, which they thought had been true indeed; But he heard all their discourse. One of them spake to this effect.</p>
+            </div>
+            <div n="2" type="section">
+               <head>2. <hi>Sect.</hi> Of their Discourse.</head>
+               <p>ONe of them began to discourse of 30000. of their own Company, and so the rest began to discourse of the same matter, for they thought that <hi>John Boreman</hi> the Butcher had been sure enough. But he perceived and understood their discourse which was to this effect: that 30000. of them, (that is of the Rebels) should be gathered together in those parts, in few dayes after, for a designe on the next Sunday following. And that fifteen thousand of them were to go against <hi>Athlon,</hi> and the other fifteen thousand were to go against two places more; <hi>Alegge,</hi> and <hi>Roscomen,</hi> and so to suppresse those three Castles together in one day. Then they discoursed of their intents, whereby he understood by them, that their discourse was to massacre the <hi>English</hi> that were dwelling in those places, and then they should have time and opportunitie to use the Protestants in <hi>Conoth</hi> as themselves pleased, and then they should have and enjoy that Province to themselves, and hold it as a redeemed Province under themselves.</p>
+               <pb n="3" facs="tcp:96307:3"/>
+               <p>Then spake one Mr. <hi>Garret Norton</hi> to this effect to the Sergeant and Corporall: Cozens (quoth he) if you do perform your part well, you shall be re<g ref="char:EOLhyphen"/>warded more then was promised you by a great deale.</p>
+               <p>And they answered him to this effect: that if they came on Sunday night, they should be sure to have way made to enter the Castle, without any great molestation. And after their discourse, the Mer<g ref="char:EOLhyphen"/>chants gave the Sargeant and Corporall, each of them 20. s. a piece, and so parted.</p>
+            </div>
+            <div n="3" type="section">
+               <head>3. <hi>John Boremans</hi> care in making the Plot known.</head>
+               <p>Then the said <hi>John Boreman</hi> went immediately to the Lieutenant of <hi>Athlon</hi> Castle, and told him what he had heard. And the Lieutenant very care<g ref="char:EOLhyphen"/>fully sent to <hi>Alegge</hi> Castle, to give them notice of it, and likewise to <hi>Roscomen,</hi> (but they privately) and likewise gave notice to one of the Captains of the Lord <hi>Jones</hi> troop, and likewise to the Lord <hi>Diboney.</hi>
+               </p>
+            </div>
+            <div n="4" type="section">
+               <head>4. <hi>Sect.</hi> Of the Battell.</head>
+               <p>THe Lord <hi>Jones</hi> and the Lord <hi>Diboney</hi> marched out with their Forces to meet the Rebels on Sunday morning with 20000. foot, and 200. horse, and they met the Rebels at <hi>Knock,</hi> (a league that is) 3. miles from <hi>Athlon,</hi> with 10000. Foot, and 100. horse, and placed the other 10000. Foot, and 100. horse beyond a great bogge, where usually the Re<g ref="char:EOLhyphen"/>bels that formerly came to these parts entred into the wood (for there is a great wood in that place) to the end that when the Rebels should come to
+<pb n="4" facs="tcp:96307:4"/> take the wood, they might there meet with them; if it should please Almighty God to give them the victory. The Battell began on Sunday morning about 10. of the clock; and there was in the first place a very great and bloody skirmish, for the space of about three houres: in which time there was slain about the number of two thousand of the Rebels, as appeared by the dead corps which were left in the field; and the rest retreated. But the Lord <hi>Jones</hi> and his Company pursued them close, and slew about a thousand of them more upon the Re<g ref="char:EOLhyphen"/>treat. The rest of them hasted over the Bogge, as was expected, expecting to take the wood to rescue themselves there: But they were prevented by the other part of the Army which waited for their coming there, for the 10000. Foot, and an hundred horse fell upon them and there was another bloody skirmish between them and the Rebels. In which skirmish the Rebels had a great deale the worse.</p>
+               <p>And whilest they were not in the battell, the L. <hi>Jones</hi> and his Company that followed the Rebels, appeared in the pursuing of them, and gave them a great overthrow again, for by the dead corps did appear to the number of about two and twentie thousand and five hundred to be slain: So there was in all slain of the Rebels, 25500. And of the Lord <hi>Jones,</hi> and Lord <hi>Diboney</hi> their Company, about five hundred foot, and 20 horse.</p>
+               <p>There were also taken three of the chief Leaders of the Rebels, and sent them to prison. Then they marched to the Castle of <hi>Balney lake,</hi> which is a Castle that the Rebels had lately taken, and there
+<pb n="5" facs="tcp:96307:4"/> they fell upon the Rebels, and slew about five hun<g ref="char:EOLhyphen"/>dred of them, and redeemed the Castle.</p>
+               <p>So there were slain of the Rebels that day in all besides these, two honorable Lords, and their com<g ref="char:EOLhyphen"/>pany, about six and twenty thousand.</p>
+               <p>
+                  <list>
+                     <head>The names of the chief Rebels.</head>
+                     <item>Sir <hi>Oliver Tude.</hi>
+                     </item>
+                     <item>
+                        <hi>Daniel Dolton.</hi>
+                     </item>
+                     <item>
+                        <hi>Garrot Norton.</hi>
+                     </item>
+                     <item>
+                        <hi>James Perserall.</hi>
+                     </item>
+                     <item>
+                        <hi>Rouland Brandon.</hi>
+                     </item>
+                     <item>
+                        <hi>James Muleram.</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+            <div n="5" type="section">
+               <head>5. <hi>Sect.</hi> Of the reason why the Rebels came so strong to surprize <hi>Athlon.</hi>
+               </head>
+               <p>THe Rebels desired to take <hi>Athlon</hi> very much, and therefore drew so great a Force thither, hoping to surprize the Town and Castle, to over<g ref="char:EOLhyphen"/>come the Lord <hi>Jones</hi> his forces: and then they intended to take his Armour, and so have strength<g ref="char:EOLhyphen"/>ened themselves: and then they would have kept the Town and Castle in their own hands, which would have strengthened them very much, should they have effected it: for it is a strong walled Town, and great store of <hi>Irish</hi> Papists do live with<g ref="char:EOLhyphen"/>in the wals; amongst which are many Merchants of great worth.</p>
+               <p>At the West end of the Town there is also a great River, over which is a bridge, it is called the Sharond. This River brings great Boats to <hi>Lim<g ref="char:EOLhyphen"/>bricke,</hi> at the West end of the Bridge doth stand the Lord <hi>Jones</hi> his Castle, which is one of the greatest and strongest Castles in <hi>Ireland,</hi> (except <hi>Dublin</hi>) and one of the best stored with Ammunition for
+<pb n="6" facs="tcp:96307:5"/> warre. The Papists in this Town had promised the Rebels, that at their coming they would cause the gates to be opened. And moreover the Papists of the Town had plotted with some of the Comman<g ref="char:EOLhyphen"/>ders of the Castle, that promised to procure them entrance when they came.</p>
+               <p>Now so it is, that should they have taken this Town, and Castle, they then might easily have ta<g ref="char:EOLhyphen"/>ken the Castle of <hi>Roscomin,</hi> and the Castle of <hi>Aleg,</hi> and then it would be very hard for any of the Kings forces to enter the Province of <hi>Coneth:</hi> be<g ref="char:EOLhyphen"/>cause there is no way for them to passe into that Province, but onely at <hi>Athlon,</hi> and at <hi>Alegge,</hi> save onely the Bridge at <hi>Balney lake,</hi> which the Rebels had before taken, and was then in their hands. But through Gods mercy they were prevented, and they have fallen into the same pit which they had digged for others.</p>
+               <closer>Therefore blessed be the Lord God of Ireland, for with his own right hand he hath gotten himself the victory.</closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
